@@ -6,6 +6,7 @@ if speed == 40<60
 else 60<40
   "safe"
 end
+end
 
 
 
